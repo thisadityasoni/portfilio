@@ -1,3 +1,3 @@
 # portfilio
 
-https://thisadityasoni.github.io/portfilio/
+https://adityasoni.tech/
